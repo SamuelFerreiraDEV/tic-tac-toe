@@ -1,2 +1,2 @@
 # tic-tac-toe
-Web game project.
+Web game. One of my first projects.
